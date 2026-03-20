@@ -1,4 +1,7 @@
-ALL right reserved Umang
+## License
+
+Copyright © 2025 Umang Kumar Singh. All rights reserved.
+
 # SkillBridge — AI Adaptive Onboarding Engine
 
 > **Hackathon Submission 2025** — AI-driven, adaptive learning engine that parses a new hire's capabilities and dynamically maps a personalized training pathway.
