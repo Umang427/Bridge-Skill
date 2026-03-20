@@ -1,6 +1,6 @@
 ## License
 
-Copyright © 2025 Umang Kumar Singh. All rights reserved.
+Copyright © 2026 Umang Kumar Singh. All rights reserved.
 
 # SkillBridge — AI Adaptive Onboarding Engine
 
